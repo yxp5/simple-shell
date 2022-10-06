@@ -272,8 +272,7 @@ void argsSeparate (char *args[], char *args1[], char *args2[], int separate, int
 int main(void) { 
     printf("========================\n");
     printf("Lauching simple shell...\n");
-    printf("Author: Yuxiang Pan\n");
-    printf("Student ID: 261052613\n");
+    printf("Author: yxp5\n");
     printf("========================\n");
 
     char *args[LENGTH];
