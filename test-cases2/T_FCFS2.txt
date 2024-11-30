@@ -1,0 +1,3 @@
+exec P_f1 P_f2 FCFS
+exec P_f1 P_f2 P_f3 FCFS
+quit

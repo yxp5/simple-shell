@@ -1,0 +1,3 @@
+exec P_fA P_fB P_fC RR
+exec P_fB P_fC P_fA RR
+quit

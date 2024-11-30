@@ -1,0 +1,3 @@
+set y f2 3 lines
+echo $y
+echo $y

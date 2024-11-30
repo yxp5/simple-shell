@@ -1,0 +1,5 @@
+set x f1 5 lines
+echo $x
+echo $x
+echo $x
+echo $x

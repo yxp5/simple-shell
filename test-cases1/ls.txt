@@ -1,0 +1,6 @@
+my_mkdir toto
+my_cd toto
+my_touch f1
+my_touch f2
+my_ls
+quit

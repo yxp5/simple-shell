@@ -1,0 +1,7 @@
+my_mkdir test
+my_cd test
+my_mkdir $toto
+set toto tata
+my_mkdir $toto
+my_ls
+quit

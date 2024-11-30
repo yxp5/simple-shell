@@ -1,0 +1,4 @@
+exec P_fA P_fB P_fC SJF
+exec P_fC P_fB P_fA SJF
+exec P_fB P_fC P_fA SJF
+quit

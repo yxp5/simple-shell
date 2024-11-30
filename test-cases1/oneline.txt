@@ -1,0 +1,2 @@
+set x abc; set y 123; print y; print x
+quit

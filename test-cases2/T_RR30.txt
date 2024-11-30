@@ -1,0 +1,3 @@
+exec P_longP1 P_longP2 P_longP3 RR30 #
+echo shell
+exec P_quit RR30

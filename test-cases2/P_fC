@@ -1,0 +1,6 @@
+set x 1
+print x
+set y 2
+print y
+set z good luck
+echo $z

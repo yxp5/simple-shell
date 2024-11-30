@@ -1,0 +1,3 @@
+exec P_fA P_fB P_fC AGING
+exec P_fB P_fA P_fC AGING
+quit

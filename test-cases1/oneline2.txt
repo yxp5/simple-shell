@@ -1,0 +1,2 @@
+set x testdir; my_mkdir $x; my_cd testdir; my_touch f; my_ls
+quit

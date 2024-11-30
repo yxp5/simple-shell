@@ -1,0 +1,4 @@
+echo mary
+set mary 123
+echo $mary
+quit

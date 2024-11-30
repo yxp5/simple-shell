@@ -1,0 +1,4 @@
+exec P_f1 P_f2 P_f3 SJF
+exec P_f3 P_f2 P_f1 SJF
+exec P_f2 P_f3 P_f1 SJF
+quit
