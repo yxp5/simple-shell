@@ -1,6 +1,6 @@
 # Description
 
-Simple implementation of shell in C
+Implementation of a simple shell using C
 
 ### Usage
 
